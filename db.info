@@ -1,0 +1,5 @@
+<?php
+$server = localhost;
+$db = cities;
+$user = ares;
+$password = 37182560;
